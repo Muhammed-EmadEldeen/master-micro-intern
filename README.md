@@ -8,12 +8,20 @@ This project involves creating a Python GUI application that allows users to inp
 
 ### Features
 - User Input: Enter Mathematical function with support of the following operators ['+', '-', '*', '/', '^', 'log10', 'sqrt']
+
 ![User Input Image](./imgs/1721583199.png)
+
 - Plot: Plot the function over a specified range of x-values
+
 ![Plot Image](./imgs/1721583205.png)
+
 - Validation: Validate the input function if correct, else shows an error message
+
 ![Plot Image](./imgs/1721583211.png)
+
 - Testing: Automated testing of the application using pytest and pytest-qt
+
+![Test Image](./imgs/1721583815.png)
 
 ### Installation
 1. Clone the repository by typing the following command in terminal
