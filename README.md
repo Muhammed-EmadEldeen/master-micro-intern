@@ -1,14 +1,18 @@
 # Python Function Plotter
 
 ### Overview
-![Main Image](./imgs/1721583182.png)
+
+![Main Image](./imgs/1721583189.png)
+
 This project involves creating a Python GUI application that allows users to input a mathematical function and plot it over a specified range of x-values. The application is built using PySide2 for the GUI and Matplotlib for plotting. It supports basic mathematical operations and functions, including basic arithmetic, logarithms of 10 only, and square roots.
 
 ### Features
 - User Input: Enter Mathematical function with support of the following operators ['+', '-', '*', '/', '^', 'log10', 'sqrt']
-![]
+![User Input Image](./imgs/1721583199.png)
 - Plot: Plot the function over a specified range of x-values
+![Plot Image](./imgs/1721583205.png)
 - Validation: Validate the input function if correct, else shows an error message
+![Plot Image](./imgs/1721583211.png)
 - Testing: Automated testing of the application using pytest and pytest-qt
 
 ### Installation
